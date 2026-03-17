@@ -1,6 +1,6 @@
 # Prithvi Essentials
 
-![Prithvi Essentials Demo](public/clamshell.png) <!-- Update with your actual OG image or banner -->
+![Prithvi Essentials Demo](public/kraft.png) <!-- Update with your actual OG image or banner -->
 
 **Prithvi Essentials** is a premium e-commerce landing page crafted for an eco-friendly packaging brand. Designed to provide a highly interactive, tactile, and professional user experience, the project combines modern web technologies with fluid, physics-based animations.
 
